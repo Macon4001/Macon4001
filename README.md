@@ -1,5 +1,5 @@
 
--🎓 I hold a Bachelor's degree in Software Engineering (BSc) from Nottingham University.
+-🎓 I hold a Bachelor's degree in Software Engineering (BSc) from Nottingham Trent University.
 
 -🔭 I’m currently looking for a software engineering role to kickstart my career.
 
