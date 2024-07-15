@@ -1,10 +1,12 @@
-- 👋 Hi, I’m @Macon4001 
-- 👀 I’m interested in Software Engineering and general coding 
-- 🌱 I’m currently learning c# and C++ at university with a little bit of java. 
-- 💞️ I’m looking to collaborate on a project of any kind but i am mostly interested in gaming. 
-- 📫 How to reach me @ my email Macon4001@gmail.com.
 
-<!---
-Macon4001/Macon4001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 I hold a Bachelor's degree in Software Engineering (BSc) from Nottingham University.
+🔭 I’m currently looking for a software engineering role to kickstart my career.
+🌱 I’m passionate about software development, particularly in areas like web development, machine learning, and open-source contributions.
+💡 Although I haven’t held a professional position in the field yet, I have completed several projects during my studies, including creating websites in C# to sell Grand pianos as well as a fitness app created for 
+    android in Java, along with an AI chatbot trained on identifying Planets in Python .
+💼 I have a strong foundation in Python, Java and C# web development, and I am eager to apply my knowledge in a professional setting.
+📚 I am constantly learning and working on improving my skills through online courses and personal projects.
+
+📫 How to reach me: Macon4001@gmail.com
+
+Let’s connect and create amazing software together!
