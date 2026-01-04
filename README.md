@@ -1,16 +1,23 @@
+# Michael Muniu
 
--🎓 I hold a Bachelor's degree in Software Engineering (BSc) from Nottingham Trent University.
+Software Engineer at MIT Dynamic. Building SaaS products independently.
 
--🔭 I’m currently looking for a software engineering role to kickstart my career.
+## Current Projects
 
--🌱 I’m passionate about software development, particularly in areas like web development, machine learning, and open-source contributions.
+**BankToFile** - Convert UK bank statement PDFs to CSV in seconds.
+banktofile.com
 
--💡 Although I haven’t held a professional position in the field yet, I have completed several projects during my studies, including creating websites in C# to sell Grand pianos as well as a fitness app created for android in Java, along with an AI chatbot trained on identifying Planets in Python.
+**JSON Visualiser Pro** - VS Code extension for visualising JSON as tree view or interactive node graph.
+marketplace.visualstudio.com/items?itemName=michael-muniu.json-visualiser-pro
 
--💼 I have a strong foundation in Python, Java and C# web development, and I am eager to apply my knowledge in a professional setting.
+## Stack
 
--📚 I am constantly learning and working on improving my skills through online courses and personal projects.
+TypeScript, React, Vue.js, Next.js, Node.js, PHP, Laravel, PostgreSQL, MySQL
 
--📫 How to reach me: Macon4001@gmail.com
+## Education
 
-Let’s connect and create amazing software together!
+BSc Software Engineering - Nottingham Trent University
+
+## Contact
+
+Macon4001@gmail.com
